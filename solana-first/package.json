@@ -1,0 +1,15 @@
+{
+  "name": "solana-first-project",
+  "version": "1.0.0",
+  "description": "First project using web3.js pacakage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrej Radomiljac",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.90.0"
+  }
+}
